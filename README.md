@@ -1,9 +1,11 @@
-README-template
+Portifolio Web
 ======
-**README-template** is a collection of well designed templates for the READMEs on GitHub. Most of the times I find myself writing the same things in the description and thought I could make a template out of this.
 
 ## Ferramentas Ultilizadas
 
+* HTML5
+* CSS3
+* AngularJs
 
 
 ## Contact
