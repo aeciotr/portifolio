@@ -1,0 +1,25 @@
+{
+  "name": "portifolio",
+  "authors": [
+    "Aécio Tenório <aeciotr@gmail.com>"
+  ],
+  "description": "Portifólio Web | Aécio Tenório",
+  "main": "",
+  "keywords": [
+    "front-end",
+    "developer"
+  ],
+  "license": "MIT",
+  "homepage": "www.aeciotenorio.com.br",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap.css#^2.3.2"
+  }
+}
